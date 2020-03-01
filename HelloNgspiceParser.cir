@@ -1,0 +1,10 @@
+* circuit HelloNgspiceParser.cir
+
+v1 1 0 5
+r1 1 2 1.2k
+c1 2 0 1e-9
+
+.tran 1e-7 1e-5 UIC
+.print tran v(1) v(2)
+
+.end
