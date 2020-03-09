@@ -26,7 +26,8 @@ How will run a parser if the top rule can not be reached?
 ### About
 
 ***Autor: Samu Gonzalez***\
-***Tutores: Antonio Alvarez, Sergio Cuenca***
+***Coordinador: Antonio Martinez***\
+***Tutores: Antonio Martinez, Sergio Cuenca***
 
 #### Trabajo Fin de Máster
 
